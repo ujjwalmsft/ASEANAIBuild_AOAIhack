@@ -10,6 +10,3 @@ This repository contains information (data, instructions for the workshop, and r
 Please feel free to reach out to the trainers during the session, for any questions or issues related to access or the
 solution. We hope you have a rewarding experience building your first AI project.
 
-We greatly value your feedback and welcome any suggestions for improvement. Please share your thoughts [here](https://forms.office.com/r/jTTzUMcp7Q). You can also scan the QR code below to provide your feedback:
-
-[![feedback form](images/README/feedback.png "Feedback form")](https://forms.office.com/r/jTTzUMcp7Q)
